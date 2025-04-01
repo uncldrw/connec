@@ -1,0 +1,22 @@
+$script:accountMap = @{
+    "c.rickert@spectrum8.de"    = 'cri-iam';
+    "sh.kriebel@spectrum8.de"   = 'shk-iam';
+    "b.otte@spectrum8.de"       = 'bot-iam';
+    "h.leweling@spectrum8.de"   = 'hle-iam';
+    "j.bullmann@spectrum8.de"   = 'jbu-iam';
+    "j.hoang@spectrum8.de"      = 'dho-iam';
+    "j.wege@spectrum8.de"       = 'jwe-iam';
+    "jens.wege@spectrum8.de"    = 'jew-iam';
+    "jf.michels@spectrum8.de"   = 'jfm-iam';
+    "k.daniels@spectrum8.de"    = 'kda-iam';
+    "l.mellin@spectrum8.de"     = 'lme-iam';
+    "m.fanous@spectrum8.de"     = 'mfa-iam';
+    "m.moss@spectrum8.de"       = 'mmo-iam';
+    "m.wegen@spectrum8.de"      = 'mwe-iam';
+    "ml.nguyen@spectrum8.de"    = 'mng-iam';
+    "t.pousen@spectrum8.de"     = 'tpo-iam';
+    "v.mischke@spectrum8.de"    = 'vmi-iam';
+    "y.buschmeyer@spectrum8.de" = 'ybu-iam';
+    "p.wolff@spectrum8.de"      = 'pwo-iam';
+    "m.casao@spectrum8.de"      = 'mca-iam';
+}

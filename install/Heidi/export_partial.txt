@@ -1,0 +1,420 @@
+Servers\Aws\SessionCreated<|||>1<|||>2023-08-09 13:59:55
+Servers\Aws\Folder<|||>3<|||>1
+Servers\Aws\s8-dev\SessionCreated<|||>1<|||>2023-08-09 16:26:31
+Servers\Aws\s8-dev\Host<|||>1<|||>127.0.0.1
+Servers\Aws\s8-dev\WindowsAuth<|||>3<|||>0
+Servers\Aws\s8-dev\CleartextPluginEnabled<|||>3<|||>1
+Servers\Aws\s8-dev\User<|||>1<|||>##RDS-IAM-USERNAME##
+Servers\Aws\s8-dev\Password<|||>1<|||>8
+Servers\Aws\s8-dev\LoginPrompt<|||>3<|||>1
+Servers\Aws\s8-dev\Port<|||>1<|||>13301
+Servers\Aws\s8-dev\NetType<|||>3<|||>0
+Servers\Aws\s8-dev\Compressed<|||>3<|||>1
+Servers\Aws\s8-dev\LocalTimeZone<|||>3<|||>0
+Servers\Aws\s8-dev\QueryTimeout<|||>3<|||>30
+Servers\Aws\s8-dev\KeepAlive<|||>3<|||>20
+Servers\Aws\s8-dev\FullTableStatus<|||>3<|||>1
+Servers\Aws\s8-dev\Databases<|||>1<|||>
+Servers\Aws\s8-dev\Library<|||>1<|||>libmysql-6.1.dll
+Servers\Aws\s8-dev\Comment<|||>1<|||>
+Servers\Aws\s8-dev\StartupScriptFilename<|||>1<|||>
+Servers\Aws\s8-dev\TreeBackground<|||>3<|||>536870911
+Servers\Aws\s8-dev\SSHtunnelActive<|||>3<|||>0
+Servers\Aws\s8-dev\SshExecutable<|||>1<|||>
+Servers\Aws\s8-dev\SSHtunnelHost<|||>1<|||>
+Servers\Aws\s8-dev\SSHtunnelHostPort<|||>3<|||>22
+Servers\Aws\s8-dev\SSHtunnelUser<|||>1<|||>
+Servers\Aws\s8-dev\SSHtunnelPassword<|||>1<|||>4
+Servers\Aws\s8-dev\SSHtunnelTimeout<|||>3<|||>4
+Servers\Aws\s8-dev\SSHtunnelPrivateKey<|||>1<|||>
+Servers\Aws\s8-dev\SSHtunnelPort<|||>3<|||>3307
+Servers\Aws\s8-dev\SSL_Active<|||>3<|||>0
+Servers\Aws\s8-dev\SSL_Key<|||>1<|||>
+Servers\Aws\s8-dev\SSL_Cert<|||>1<|||>
+Servers\Aws\s8-dev\SSL_CA<|||>1<|||>
+Servers\Aws\s8-dev\SSL_Cipher<|||>1<|||>
+Servers\Aws\s8-dev\IgnoreDatabasePattern<|||>1<|||>
+Servers\Aws\s8-dev\LogFileDdl<|||>3<|||>0
+Servers\Aws\s8-dev\LogFileDml<|||>3<|||>0
+Servers\Aws\s8-dev\LogFilePath<|||>1<|||>C:\Users\##WINDOWS-USER-NAME##\AppData\Roaming\HeidiSQL\Logs\%session\%db\%y%m%d.sql
+Servers\Aws\s8-dev\ServerVersionFull<|||>1<|||>10.6.13-MariaDB-log - managed by https://aws.amazon.com/rds/
+Servers\Aws\s8-dev\ConnectCount<|||>3<|||>8
+Servers\Aws\s8-dev\ServerVersion<|||>3<|||>100613
+Servers\Aws\s8-dev\LastConnect<|||>1<|||>2023-08-21 13:22:50
+Servers\Aws\s8-dev\RefusedCount<|||>3<|||>2
+Servers\Aws\s8-dev (dbadmin)\SessionCreated<|||>1<|||>2023-08-09 16:25:33
+Servers\Aws\s8-dev (dbadmin)\Host<|||>1<|||>127.0.0.1
+Servers\Aws\s8-dev (dbadmin)\WindowsAuth<|||>3<|||>0
+Servers\Aws\s8-dev (dbadmin)\CleartextPluginEnabled<|||>3<|||>0
+Servers\Aws\s8-dev (dbadmin)\User<|||>1<|||>dbadmin
+Servers\Aws\s8-dev (dbadmin)\Password<|||>1<|||>7770386564457B73487872365334344B576A735947387558517B1
+Servers\Aws\s8-dev (dbadmin)\LoginPrompt<|||>3<|||>0
+Servers\Aws\s8-dev (dbadmin)\Port<|||>1<|||>13301
+Servers\Aws\s8-dev (dbadmin)\NetType<|||>3<|||>0
+Servers\Aws\s8-dev (dbadmin)\Compressed<|||>3<|||>1
+Servers\Aws\s8-dev (dbadmin)\LocalTimeZone<|||>3<|||>0
+Servers\Aws\s8-dev (dbadmin)\QueryTimeout<|||>3<|||>30
+Servers\Aws\s8-dev (dbadmin)\KeepAlive<|||>3<|||>20
+Servers\Aws\s8-dev (dbadmin)\FullTableStatus<|||>3<|||>1
+Servers\Aws\s8-dev (dbadmin)\Databases<|||>1<|||>
+Servers\Aws\s8-dev (dbadmin)\Library<|||>1<|||>libmysql-6.1.dll
+Servers\Aws\s8-dev (dbadmin)\Comment<|||>1<|||>
+Servers\Aws\s8-dev (dbadmin)\StartupScriptFilename<|||>1<|||>
+Servers\Aws\s8-dev (dbadmin)\TreeBackground<|||>3<|||>536870911
+Servers\Aws\s8-dev (dbadmin)\SSHtunnelActive<|||>3<|||>0
+Servers\Aws\s8-dev (dbadmin)\SshExecutable<|||>1<|||>
+Servers\Aws\s8-dev (dbadmin)\SSHtunnelHost<|||>1<|||>
+Servers\Aws\s8-dev (dbadmin)\SSHtunnelHostPort<|||>3<|||>22
+Servers\Aws\s8-dev (dbadmin)\SSHtunnelUser<|||>1<|||>
+Servers\Aws\s8-dev (dbadmin)\SSHtunnelPassword<|||>1<|||>3
+Servers\Aws\s8-dev (dbadmin)\SSHtunnelTimeout<|||>3<|||>4
+Servers\Aws\s8-dev (dbadmin)\SSHtunnelPrivateKey<|||>1<|||>
+Servers\Aws\s8-dev (dbadmin)\SSHtunnelPort<|||>3<|||>3307
+Servers\Aws\s8-dev (dbadmin)\SSL_Active<|||>3<|||>0
+Servers\Aws\s8-dev (dbadmin)\SSL_Key<|||>1<|||>
+Servers\Aws\s8-dev (dbadmin)\SSL_Cert<|||>1<|||>
+Servers\Aws\s8-dev (dbadmin)\SSL_CA<|||>1<|||>
+Servers\Aws\s8-dev (dbadmin)\SSL_Cipher<|||>1<|||>
+Servers\Aws\s8-dev (dbadmin)\IgnoreDatabasePattern<|||>1<|||>
+Servers\Aws\s8-dev (dbadmin)\LogFileDdl<|||>3<|||>0
+Servers\Aws\s8-dev (dbadmin)\LogFileDml<|||>3<|||>0
+Servers\Aws\s8-dev (dbadmin)\LogFilePath<|||>1<|||>C:\Users\##WINDOWS-USER-NAME##\AppData\Roaming\HeidiSQL\Logs\%session\%db\%y%m%d.sql
+Servers\Aws\s8-dev (dbadmin)\ServerVersionFull<|||>1<|||>10.6.13-MariaDB-log - managed by https://aws.amazon.com/rds/
+Servers\Aws\s8-dev (dbadmin)\ConnectCount<|||>3<|||>1
+Servers\Aws\s8-dev (dbadmin)\ServerVersion<|||>3<|||>100613
+Servers\Aws\s8-dev (dbadmin)\LastConnect<|||>1<|||>2023-08-09 16:28:37
+Servers\Aws\s8-pre-prod\SessionCreated<|||>1<|||>2023-08-09 16:35:41
+Servers\Aws\s8-pre-prod\Host<|||>1<|||>127.0.0.1
+Servers\Aws\s8-pre-prod\WindowsAuth<|||>3<|||>0
+Servers\Aws\s8-pre-prod\CleartextPluginEnabled<|||>3<|||>1
+Servers\Aws\s8-pre-prod\User<|||>1<|||>##RDS-IAM-USERNAME##
+Servers\Aws\s8-pre-prod\Password<|||>1<|||>9
+Servers\Aws\s8-pre-prod\LoginPrompt<|||>3<|||>1
+Servers\Aws\s8-pre-prod\Port<|||>1<|||>13303
+Servers\Aws\s8-pre-prod\NetType<|||>3<|||>0
+Servers\Aws\s8-pre-prod\Compressed<|||>3<|||>1
+Servers\Aws\s8-pre-prod\LocalTimeZone<|||>3<|||>0
+Servers\Aws\s8-pre-prod\QueryTimeout<|||>3<|||>30
+Servers\Aws\s8-pre-prod\KeepAlive<|||>3<|||>20
+Servers\Aws\s8-pre-prod\FullTableStatus<|||>3<|||>1
+Servers\Aws\s8-pre-prod\Databases<|||>1<|||>
+Servers\Aws\s8-pre-prod\Library<|||>1<|||>libmysql-6.1.dll
+Servers\Aws\s8-pre-prod\Comment<|||>1<|||>
+Servers\Aws\s8-pre-prod\StartupScriptFilename<|||>1<|||>
+Servers\Aws\s8-pre-prod\TreeBackground<|||>3<|||>536870911
+Servers\Aws\s8-pre-prod\SSHtunnelActive<|||>3<|||>0
+Servers\Aws\s8-pre-prod\SshExecutable<|||>1<|||>
+Servers\Aws\s8-pre-prod\SSHtunnelHost<|||>1<|||>
+Servers\Aws\s8-pre-prod\SSHtunnelHostPort<|||>3<|||>22
+Servers\Aws\s8-pre-prod\SSHtunnelUser<|||>1<|||>
+Servers\Aws\s8-pre-prod\SSHtunnelPassword<|||>1<|||>5
+Servers\Aws\s8-pre-prod\SSHtunnelTimeout<|||>3<|||>4
+Servers\Aws\s8-pre-prod\SSHtunnelPrivateKey<|||>1<|||>
+Servers\Aws\s8-pre-prod\SSHtunnelPort<|||>3<|||>3307
+Servers\Aws\s8-pre-prod\SSL_Active<|||>3<|||>0
+Servers\Aws\s8-pre-prod\SSL_Key<|||>1<|||>
+Servers\Aws\s8-pre-prod\SSL_Cert<|||>1<|||>
+Servers\Aws\s8-pre-prod\SSL_CA<|||>1<|||>
+Servers\Aws\s8-pre-prod\SSL_Cipher<|||>1<|||>
+Servers\Aws\s8-pre-prod\IgnoreDatabasePattern<|||>1<|||>
+Servers\Aws\s8-pre-prod\LogFileDdl<|||>3<|||>0
+Servers\Aws\s8-pre-prod\LogFileDml<|||>3<|||>0
+Servers\Aws\s8-pre-prod\LogFilePath<|||>1<|||>C:\Users\##WINDOWS-USER-NAME##\AppData\Roaming\HeidiSQL\Logs\%session\%db\%y%m%d.sql
+Servers\Aws\s8-pre-prod\RefusedCount<|||>3<|||>7
+Servers\Aws\s8-pre-prod (dbadmin)\SessionCreated<|||>1<|||>2023-08-09 16:35:14
+Servers\Aws\s8-pre-prod (dbadmin)\Host<|||>1<|||>127.0.0.1
+Servers\Aws\s8-pre-prod (dbadmin)\WindowsAuth<|||>3<|||>0
+Servers\Aws\s8-pre-prod (dbadmin)\CleartextPluginEnabled<|||>3<|||>0
+Servers\Aws\s8-pre-prod (dbadmin)\User<|||>1<|||>dbadmin
+Servers\Aws\s8-pre-prod (dbadmin)\Password<|||>1<|||>3C3A7B78597E3C3B693E5C6D3E546D4C697348676
+Servers\Aws\s8-pre-prod (dbadmin)\LoginPrompt<|||>3<|||>0
+Servers\Aws\s8-pre-prod (dbadmin)\Port<|||>1<|||>13303
+Servers\Aws\s8-pre-prod (dbadmin)\NetType<|||>3<|||>0
+Servers\Aws\s8-pre-prod (dbadmin)\Compressed<|||>3<|||>1
+Servers\Aws\s8-pre-prod (dbadmin)\LocalTimeZone<|||>3<|||>0
+Servers\Aws\s8-pre-prod (dbadmin)\QueryTimeout<|||>3<|||>30
+Servers\Aws\s8-pre-prod (dbadmin)\KeepAlive<|||>3<|||>20
+Servers\Aws\s8-pre-prod (dbadmin)\FullTableStatus<|||>3<|||>1
+Servers\Aws\s8-pre-prod (dbadmin)\Databases<|||>1<|||>
+Servers\Aws\s8-pre-prod (dbadmin)\Library<|||>1<|||>libmysql-6.1.dll
+Servers\Aws\s8-pre-prod (dbadmin)\Comment<|||>1<|||>
+Servers\Aws\s8-pre-prod (dbadmin)\StartupScriptFilename<|||>1<|||>
+Servers\Aws\s8-pre-prod (dbadmin)\TreeBackground<|||>3<|||>536870911
+Servers\Aws\s8-pre-prod (dbadmin)\SSHtunnelActive<|||>3<|||>0
+Servers\Aws\s8-pre-prod (dbadmin)\SshExecutable<|||>1<|||>
+Servers\Aws\s8-pre-prod (dbadmin)\SSHtunnelHost<|||>1<|||>
+Servers\Aws\s8-pre-prod (dbadmin)\SSHtunnelHostPort<|||>3<|||>22
+Servers\Aws\s8-pre-prod (dbadmin)\SSHtunnelUser<|||>1<|||>
+Servers\Aws\s8-pre-prod (dbadmin)\SSHtunnelPassword<|||>1<|||>6
+Servers\Aws\s8-pre-prod (dbadmin)\SSHtunnelTimeout<|||>3<|||>4
+Servers\Aws\s8-pre-prod (dbadmin)\SSHtunnelPrivateKey<|||>1<|||>
+Servers\Aws\s8-pre-prod (dbadmin)\SSHtunnelPort<|||>3<|||>3307
+Servers\Aws\s8-pre-prod (dbadmin)\SSL_Active<|||>3<|||>0
+Servers\Aws\s8-pre-prod (dbadmin)\SSL_Key<|||>1<|||>
+Servers\Aws\s8-pre-prod (dbadmin)\SSL_Cert<|||>1<|||>
+Servers\Aws\s8-pre-prod (dbadmin)\SSL_CA<|||>1<|||>
+Servers\Aws\s8-pre-prod (dbadmin)\SSL_Cipher<|||>1<|||>
+Servers\Aws\s8-pre-prod (dbadmin)\IgnoreDatabasePattern<|||>1<|||>
+Servers\Aws\s8-pre-prod (dbadmin)\LogFileDdl<|||>3<|||>0
+Servers\Aws\s8-pre-prod (dbadmin)\LogFileDml<|||>3<|||>0
+Servers\Aws\s8-pre-prod (dbadmin)\LogFilePath<|||>1<|||>C:\Users\##WINDOWS-USER-NAME##\AppData\Roaming\HeidiSQL\Logs\%session\%db\%y%m%d.sql
+Servers\Aws\s8-pre-prod (dbadmin)\ServerVersionFull<|||>1<|||>10.5.17-MariaDB-log - managed by https://aws.amazon.com/rds/
+Servers\Aws\s8-pre-prod (dbadmin)\ConnectCount<|||>3<|||>1
+Servers\Aws\s8-pre-prod (dbadmin)\ServerVersion<|||>3<|||>100517
+Servers\Aws\s8-pre-prod (dbadmin)\LastConnect<|||>1<|||>2023-08-09 16:37:12
+Servers\Aws\s8-prod\SessionCreated<|||>1<|||>2023-08-09 16:06:08
+Servers\Aws\s8-prod\Host<|||>1<|||>127.0.0.1
+Servers\Aws\s8-prod\WindowsAuth<|||>3<|||>0
+Servers\Aws\s8-prod\CleartextPluginEnabled<|||>3<|||>1
+Servers\Aws\s8-prod\User<|||>1<|||>##RDS-IAM-USERNAME##
+Servers\Aws\s8-prod\Password<|||>1<|||>8
+Servers\Aws\s8-prod\LoginPrompt<|||>3<|||>1
+Servers\Aws\s8-prod\Port<|||>1<|||>13304
+Servers\Aws\s8-prod\NetType<|||>3<|||>0
+Servers\Aws\s8-prod\Compressed<|||>3<|||>1
+Servers\Aws\s8-prod\LocalTimeZone<|||>3<|||>0
+Servers\Aws\s8-prod\QueryTimeout<|||>3<|||>30
+Servers\Aws\s8-prod\KeepAlive<|||>3<|||>20
+Servers\Aws\s8-prod\FullTableStatus<|||>3<|||>1
+Servers\Aws\s8-prod\Databases<|||>1<|||>
+Servers\Aws\s8-prod\Library<|||>1<|||>libmysql-6.1.dll
+Servers\Aws\s8-prod\Comment<|||>1<|||>
+Servers\Aws\s8-prod\StartupScriptFilename<|||>1<|||>
+Servers\Aws\s8-prod\TreeBackground<|||>3<|||>536870911
+Servers\Aws\s8-prod\SSHtunnelActive<|||>3<|||>0
+Servers\Aws\s8-prod\SshExecutable<|||>1<|||>
+Servers\Aws\s8-prod\SSHtunnelHost<|||>1<|||>
+Servers\Aws\s8-prod\SSHtunnelHostPort<|||>3<|||>22
+Servers\Aws\s8-prod\SSHtunnelUser<|||>1<|||>
+Servers\Aws\s8-prod\SSHtunnelPassword<|||>1<|||>6
+Servers\Aws\s8-prod\SSHtunnelTimeout<|||>3<|||>4
+Servers\Aws\s8-prod\SSHtunnelPrivateKey<|||>1<|||>
+Servers\Aws\s8-prod\SSHtunnelPort<|||>3<|||>3307
+Servers\Aws\s8-prod\SSL_Active<|||>3<|||>0
+Servers\Aws\s8-prod\SSL_Key<|||>1<|||>
+Servers\Aws\s8-prod\SSL_Cert<|||>1<|||>
+Servers\Aws\s8-prod\SSL_CA<|||>1<|||>
+Servers\Aws\s8-prod\SSL_Cipher<|||>1<|||>
+Servers\Aws\s8-prod\IgnoreDatabasePattern<|||>1<|||>
+Servers\Aws\s8-prod\LogFileDdl<|||>3<|||>0
+Servers\Aws\s8-prod\LogFileDml<|||>3<|||>0
+Servers\Aws\s8-prod\LogFilePath<|||>1<|||>C:\Users\##WINDOWS-USER-NAME##\AppData\Roaming\HeidiSQL\Logs\%session\%db\%y%m%d.sql
+Servers\Aws\s8-prod\RefusedCount<|||>3<|||>1
+Servers\Aws\s8-prod\ServerVersionFull<|||>1<|||>8.0.23 - Source distribution
+Servers\Aws\s8-prod\ConnectCount<|||>3<|||>9
+Servers\Aws\s8-prod\ServerVersion<|||>3<|||>80023
+Servers\Aws\s8-prod\LastConnect<|||>1<|||>2023-08-21 14:14:03
+Servers\Aws\s8-prod\lastUsedDB<|||>1<|||>tsp_telekom
+Servers\Aws\s8-prod\QueryHistory\3<|||>1<|||>2023-08-10 18:43:27|tsp_telekom|719|SELECT * from raw_logs<{{{><}}}>WHERE <{{{><}}}>	JSON_EXTRACT(request, "$.reseller_order_number") = '3288501' OR<{{{><}}}>	JSON_EXTRACT(request, "$.sources_specific_fields.tkwid") = '3288501'
+Servers\Aws\s8-prod\QueryHistory\4<|||>1<|||>2023-08-11 09:24:39|tsp_telekom|1359|SELECT * from raw_logs<{{{><}}}>WHERE <{{{><}}}>	JSON_EXTRACT(request, "$.reseller_order_number") = '3286828' OR<{{{><}}}>	JSON_EXTRACT(request, "$.sources_specific_fields.tkwid") = '3286828'
+Servers\Aws\s8-prod\QueryHistory\2<|||>1<|||>2023-08-11 09:28:44|tsp_telekom|672|SELECT * from raw_logs<{{{><}}}>WHERE <{{{><}}}>	JSON_EXTRACT(request, "$.reseller_order_number") = '3288759' OR<{{{><}}}>	JSON_EXTRACT(request, "$.sources_specific_fields.tkwid") = '3288759'
+Servers\Aws\s8-prod (dbadmin)\SessionCreated<|||>1<|||>2023-08-09 16:03:32
+Servers\Aws\s8-prod (dbadmin)\Host<|||>1<|||>127.0.0.1
+Servers\Aws\s8-prod (dbadmin)\WindowsAuth<|||>3<|||>0
+Servers\Aws\s8-prod (dbadmin)\CleartextPluginEnabled<|||>3<|||>0
+Servers\Aws\s8-prod (dbadmin)\User<|||>1<|||>dbadmin
+Servers\Aws\s8-prod (dbadmin)\Password<|||>1<|||>5876746671635262644E5333754448376A7368381
+Servers\Aws\s8-prod (dbadmin)\LoginPrompt<|||>3<|||>0
+Servers\Aws\s8-prod (dbadmin)\Port<|||>1<|||>13304
+Servers\Aws\s8-prod (dbadmin)\NetType<|||>3<|||>0
+Servers\Aws\s8-prod (dbadmin)\Compressed<|||>3<|||>1
+Servers\Aws\s8-prod (dbadmin)\LocalTimeZone<|||>3<|||>0
+Servers\Aws\s8-prod (dbadmin)\QueryTimeout<|||>3<|||>30
+Servers\Aws\s8-prod (dbadmin)\KeepAlive<|||>3<|||>20
+Servers\Aws\s8-prod (dbadmin)\FullTableStatus<|||>3<|||>1
+Servers\Aws\s8-prod (dbadmin)\Databases<|||>1<|||>
+Servers\Aws\s8-prod (dbadmin)\Library<|||>1<|||>libmysql-6.1.dll
+Servers\Aws\s8-prod (dbadmin)\Comment<|||>1<|||>
+Servers\Aws\s8-prod (dbadmin)\StartupScriptFilename<|||>1<|||>
+Servers\Aws\s8-prod (dbadmin)\TreeBackground<|||>3<|||>536870911
+Servers\Aws\s8-prod (dbadmin)\SSHtunnelActive<|||>3<|||>0
+Servers\Aws\s8-prod (dbadmin)\SshExecutable<|||>1<|||>plink.exe
+Servers\Aws\s8-prod (dbadmin)\SSHtunnelHost<|||>1<|||>
+Servers\Aws\s8-prod (dbadmin)\SSHtunnelHostPort<|||>3<|||>22
+Servers\Aws\s8-prod (dbadmin)\SSHtunnelUser<|||>1<|||>
+Servers\Aws\s8-prod (dbadmin)\SSHtunnelPassword<|||>1<|||>1
+Servers\Aws\s8-prod (dbadmin)\SSHtunnelTimeout<|||>3<|||>4
+Servers\Aws\s8-prod (dbadmin)\SSHtunnelPrivateKey<|||>1<|||>
+Servers\Aws\s8-prod (dbadmin)\SSHtunnelPort<|||>3<|||>3307
+Servers\Aws\s8-prod (dbadmin)\SSL_Active<|||>3<|||>0
+Servers\Aws\s8-prod (dbadmin)\SSL_Key<|||>1<|||>
+Servers\Aws\s8-prod (dbadmin)\SSL_Cert<|||>1<|||>
+Servers\Aws\s8-prod (dbadmin)\SSL_CA<|||>1<|||>
+Servers\Aws\s8-prod (dbadmin)\SSL_Cipher<|||>1<|||>
+Servers\Aws\s8-prod (dbadmin)\IgnoreDatabasePattern<|||>1<|||>
+Servers\Aws\s8-prod (dbadmin)\LogFileDdl<|||>3<|||>0
+Servers\Aws\s8-prod (dbadmin)\LogFileDml<|||>3<|||>0
+Servers\Aws\s8-prod (dbadmin)\LogFilePath<|||>1<|||>C:\Users\##WINDOWS-USER-NAME##\AppData\Roaming\HeidiSQL\Logs\%session\%db\%y%m%d.sql
+Servers\Aws\s8-prod (dbadmin)\RefusedCount<|||>3<|||>1
+Servers\Aws\s8-prod (dbadmin)\ServerVersionFull<|||>1<|||>8.0.23 - Source distribution
+Servers\Aws\s8-prod (dbadmin)\ConnectCount<|||>3<|||>1
+Servers\Aws\s8-prod (dbadmin)\ServerVersion<|||>3<|||>80023
+Servers\Aws\s8-prod (dbadmin)\LastConnect<|||>1<|||>2023-08-09 16:05:05
+Servers\Aws\usp-pre-prod\SessionCreated<|||>1<|||>2022-07-18 11:34:19
+Servers\Aws\usp-pre-prod\Host<|||>1<|||>127.0.0.1
+Servers\Aws\usp-pre-prod\WindowsAuth<|||>3<|||>0
+Servers\Aws\usp-pre-prod\CleartextPluginEnabled<|||>3<|||>1
+Servers\Aws\usp-pre-prod\User<|||>1<|||>##RDS-IAM-USERNAME##
+Servers\Aws\usp-pre-prod\Password<|||>1<|||>3
+Servers\Aws\usp-pre-prod\LoginPrompt<|||>3<|||>1
+Servers\Aws\usp-pre-prod\Port<|||>1<|||>13307
+Servers\Aws\usp-pre-prod\NetType<|||>3<|||>0
+Servers\Aws\usp-pre-prod\Compressed<|||>3<|||>1
+Servers\Aws\usp-pre-prod\LocalTimeZone<|||>3<|||>0
+Servers\Aws\usp-pre-prod\QueryTimeout<|||>3<|||>30
+Servers\Aws\usp-pre-prod\KeepAlive<|||>3<|||>20
+Servers\Aws\usp-pre-prod\FullTableStatus<|||>3<|||>1
+Servers\Aws\usp-pre-prod\Databases<|||>1<|||>
+Servers\Aws\usp-pre-prod\Library<|||>1<|||>libmysql-6.1.dll
+Servers\Aws\usp-pre-prod\Comment<|||>1<|||>
+Servers\Aws\usp-pre-prod\StartupScriptFilename<|||>1<|||>
+Servers\Aws\usp-pre-prod\TreeBackground<|||>3<|||>536870911
+Servers\Aws\usp-pre-prod\SshExecutable<|||>1<|||>plink.exe
+Servers\Aws\usp-pre-prod\SSHtunnelHost<|||>1<|||>
+Servers\Aws\usp-pre-prod\SSHtunnelHostPort<|||>3<|||>22
+Servers\Aws\usp-pre-prod\SSHtunnelUser<|||>1<|||>
+Servers\Aws\usp-pre-prod\SSHtunnelPassword<|||>1<|||>7
+Servers\Aws\usp-pre-prod\SSHtunnelTimeout<|||>3<|||>4
+Servers\Aws\usp-pre-prod\SSHtunnelPrivateKey<|||>1<|||>
+Servers\Aws\usp-pre-prod\SSHtunnelPort<|||>3<|||>3307
+Servers\Aws\usp-pre-prod\SSL_Active<|||>3<|||>0
+Servers\Aws\usp-pre-prod\SSL_Key<|||>1<|||>
+Servers\Aws\usp-pre-prod\SSL_Cert<|||>1<|||>
+Servers\Aws\usp-pre-prod\SSL_CA<|||>1<|||>
+Servers\Aws\usp-pre-prod\SSL_Cipher<|||>1<|||>
+Servers\Aws\usp-pre-prod\IgnoreDatabasePattern<|||>1<|||>
+Servers\Aws\usp-pre-prod\LogFileDdl<|||>3<|||>0
+Servers\Aws\usp-pre-prod\LogFileDml<|||>3<|||>0
+Servers\Aws\usp-pre-prod\LogFilePath<|||>1<|||>C:\Users\##WINDOWS-USER-NAME##\AppData\Roaming\HeidiSQL\Logs\%session\%db\%y%m%d.sql
+Servers\Aws\usp-pre-prod\ServerVersionFull<|||>1<|||>5.7.12-log - MySQL Community Server (GPL)
+Servers\Aws\usp-pre-prod\ConnectCount<|||>3<|||>299
+Servers\Aws\usp-pre-prod\ServerVersion<|||>3<|||>50712
+Servers\Aws\usp-pre-prod\LastConnect<|||>1<|||>2023-08-21 14:15:19
+Servers\Aws\usp-pre-prod\RefusedCount<|||>3<|||>40
+Servers\Aws\usp-pre-prod\lastUsedDB<|||>1<|||>usp_vodafone
+Servers\Aws\usp-pre-prod\SSHtunnelActive<|||>3<|||>0
+Servers\Aws\usp-pre-prod (dbadmin)\SessionCreated<|||>1<|||>2023-08-09 15:18:19
+Servers\Aws\usp-pre-prod (dbadmin)\Host<|||>1<|||>127.0.0.1
+Servers\Aws\usp-pre-prod (dbadmin)\WindowsAuth<|||>3<|||>0
+Servers\Aws\usp-pre-prod (dbadmin)\CleartextPluginEnabled<|||>3<|||>0
+Servers\Aws\usp-pre-prod (dbadmin)\User<|||>1<|||>dbadmin
+Servers\Aws\usp-pre-prod (dbadmin)\Password<|||>1<|||>7B6D734D6F4E5B55445650444C38553A455054631
+Servers\Aws\usp-pre-prod (dbadmin)\LoginPrompt<|||>3<|||>0
+Servers\Aws\usp-pre-prod (dbadmin)\Port<|||>1<|||>13307
+Servers\Aws\usp-pre-prod (dbadmin)\NetType<|||>3<|||>0
+Servers\Aws\usp-pre-prod (dbadmin)\Compressed<|||>3<|||>1
+Servers\Aws\usp-pre-prod (dbadmin)\LocalTimeZone<|||>3<|||>0
+Servers\Aws\usp-pre-prod (dbadmin)\QueryTimeout<|||>3<|||>30
+Servers\Aws\usp-pre-prod (dbadmin)\KeepAlive<|||>3<|||>20
+Servers\Aws\usp-pre-prod (dbadmin)\FullTableStatus<|||>3<|||>1
+Servers\Aws\usp-pre-prod (dbadmin)\Databases<|||>1<|||>
+Servers\Aws\usp-pre-prod (dbadmin)\Library<|||>1<|||>libmysql-6.1.dll
+Servers\Aws\usp-pre-prod (dbadmin)\Comment<|||>1<|||>
+Servers\Aws\usp-pre-prod (dbadmin)\StartupScriptFilename<|||>1<|||>
+Servers\Aws\usp-pre-prod (dbadmin)\TreeBackground<|||>3<|||>536870911
+Servers\Aws\usp-pre-prod (dbadmin)\SSHtunnelActive<|||>3<|||>0
+Servers\Aws\usp-pre-prod (dbadmin)\SshExecutable<|||>1<|||>
+Servers\Aws\usp-pre-prod (dbadmin)\SSHtunnelHost<|||>1<|||>
+Servers\Aws\usp-pre-prod (dbadmin)\SSHtunnelHostPort<|||>3<|||>22
+Servers\Aws\usp-pre-prod (dbadmin)\SSHtunnelUser<|||>1<|||>
+Servers\Aws\usp-pre-prod (dbadmin)\SSHtunnelPassword<|||>1<|||>7
+Servers\Aws\usp-pre-prod (dbadmin)\SSHtunnelTimeout<|||>3<|||>4
+Servers\Aws\usp-pre-prod (dbadmin)\SSHtunnelPrivateKey<|||>1<|||>
+Servers\Aws\usp-pre-prod (dbadmin)\SSHtunnelPort<|||>3<|||>3307
+Servers\Aws\usp-pre-prod (dbadmin)\SSL_Active<|||>3<|||>0
+Servers\Aws\usp-pre-prod (dbadmin)\SSL_Key<|||>1<|||>
+Servers\Aws\usp-pre-prod (dbadmin)\SSL_Cert<|||>1<|||>
+Servers\Aws\usp-pre-prod (dbadmin)\SSL_CA<|||>1<|||>
+Servers\Aws\usp-pre-prod (dbadmin)\SSL_Cipher<|||>1<|||>
+Servers\Aws\usp-pre-prod (dbadmin)\IgnoreDatabasePattern<|||>1<|||>
+Servers\Aws\usp-pre-prod (dbadmin)\LogFileDdl<|||>3<|||>0
+Servers\Aws\usp-pre-prod (dbadmin)\LogFileDml<|||>3<|||>0
+Servers\Aws\usp-pre-prod (dbadmin)\LogFilePath<|||>1<|||>C:\Users\##WINDOWS-USER-NAME##\AppData\Roaming\HeidiSQL\Logs\%session\%db\%y%m%d.sql
+Servers\Aws\usp-pre-prod (dbadmin)\ServerVersionFull<|||>1<|||>5.7.12-log - MySQL Community Server (GPL)
+Servers\Aws\usp-pre-prod (dbadmin)\ConnectCount<|||>3<|||>2
+Servers\Aws\usp-pre-prod (dbadmin)\ServerVersion<|||>3<|||>50712
+Servers\Aws\usp-pre-prod (dbadmin)\LastConnect<|||>1<|||>2023-08-21 14:15:43
+Servers\Aws\usp-prod\SessionCreated<|||>1<|||>2023-08-09 15:20:07
+Servers\Aws\usp-prod\Host<|||>1<|||>127.0.0.1
+Servers\Aws\usp-prod\WindowsAuth<|||>3<|||>0
+Servers\Aws\usp-prod\CleartextPluginEnabled<|||>3<|||>1
+Servers\Aws\usp-prod\User<|||>1<|||>##RDS-IAM-USERNAME##
+Servers\Aws\usp-prod\Password<|||>1<|||>3
+Servers\Aws\usp-prod\LoginPrompt<|||>3<|||>1
+Servers\Aws\usp-prod\Port<|||>1<|||>13308
+Servers\Aws\usp-prod\NetType<|||>3<|||>0
+Servers\Aws\usp-prod\Compressed<|||>3<|||>1
+Servers\Aws\usp-prod\LocalTimeZone<|||>3<|||>0
+Servers\Aws\usp-prod\QueryTimeout<|||>3<|||>30
+Servers\Aws\usp-prod\KeepAlive<|||>3<|||>20
+Servers\Aws\usp-prod\FullTableStatus<|||>3<|||>1
+Servers\Aws\usp-prod\Databases<|||>1<|||>
+Servers\Aws\usp-prod\Library<|||>1<|||>libmysql-6.1.dll
+Servers\Aws\usp-prod\Comment<|||>1<|||>
+Servers\Aws\usp-prod\StartupScriptFilename<|||>1<|||>
+Servers\Aws\usp-prod\TreeBackground<|||>3<|||>536870911
+Servers\Aws\usp-prod\SSHtunnelActive<|||>3<|||>0
+Servers\Aws\usp-prod\SshExecutable<|||>1<|||>
+Servers\Aws\usp-prod\SSHtunnelHost<|||>1<|||>
+Servers\Aws\usp-prod\SSHtunnelHostPort<|||>3<|||>22
+Servers\Aws\usp-prod\SSHtunnelUser<|||>1<|||>
+Servers\Aws\usp-prod\SSHtunnelPassword<|||>1<|||>2
+Servers\Aws\usp-prod\SSHtunnelTimeout<|||>3<|||>4
+Servers\Aws\usp-prod\SSHtunnelPrivateKey<|||>1<|||>
+Servers\Aws\usp-prod\SSHtunnelPort<|||>3<|||>3307
+Servers\Aws\usp-prod\SSL_Active<|||>3<|||>0
+Servers\Aws\usp-prod\SSL_Key<|||>1<|||>
+Servers\Aws\usp-prod\SSL_Cert<|||>1<|||>
+Servers\Aws\usp-prod\SSL_CA<|||>1<|||>
+Servers\Aws\usp-prod\SSL_Cipher<|||>1<|||>
+Servers\Aws\usp-prod\IgnoreDatabasePattern<|||>1<|||>
+Servers\Aws\usp-prod\LogFileDdl<|||>3<|||>0
+Servers\Aws\usp-prod\LogFileDml<|||>3<|||>0
+Servers\Aws\usp-prod\LogFilePath<|||>1<|||>C:\Users\##WINDOWS-USER-NAME##\AppData\Roaming\HeidiSQL\Logs\%session\%db\%y%m%d.sql
+Servers\Aws\usp-prod\ServerVersionFull<|||>1<|||>5.7.12 - MySQL Community Server (GPL)
+Servers\Aws\usp-prod\ConnectCount<|||>3<|||>7
+Servers\Aws\usp-prod\ServerVersion<|||>3<|||>50712
+Servers\Aws\usp-prod\LastConnect<|||>1<|||>2023-08-21 14:16:22
+Servers\Aws\usp-prod\lastUsedDB<|||>1<|||>usp_vodafone
+Servers\Aws\usp-prod (dbadmin)\SessionCreated<|||>1<|||>2023-08-09 15:16:02
+Servers\Aws\usp-prod (dbadmin)\Host<|||>1<|||>127.0.0.1
+Servers\Aws\usp-prod (dbadmin)\WindowsAuth<|||>3<|||>0
+Servers\Aws\usp-prod (dbadmin)\CleartextPluginEnabled<|||>3<|||>0
+Servers\Aws\usp-prod (dbadmin)\User<|||>1<|||>dbadmin
+Servers\Aws\usp-prod (dbadmin)\Password<|||>1<|||>56357B705335654C3C7A646B697349747A3A59443
+Servers\Aws\usp-prod (dbadmin)\LoginPrompt<|||>3<|||>0
+Servers\Aws\usp-prod (dbadmin)\Port<|||>1<|||>13308
+Servers\Aws\usp-prod (dbadmin)\NetType<|||>3<|||>0
+Servers\Aws\usp-prod (dbadmin)\Compressed<|||>3<|||>1
+Servers\Aws\usp-prod (dbadmin)\LocalTimeZone<|||>3<|||>0
+Servers\Aws\usp-prod (dbadmin)\QueryTimeout<|||>3<|||>30
+Servers\Aws\usp-prod (dbadmin)\KeepAlive<|||>3<|||>20
+Servers\Aws\usp-prod (dbadmin)\FullTableStatus<|||>3<|||>1
+Servers\Aws\usp-prod (dbadmin)\Databases<|||>1<|||>
+Servers\Aws\usp-prod (dbadmin)\Library<|||>1<|||>libmysql-6.1.dll
+Servers\Aws\usp-prod (dbadmin)\Comment<|||>1<|||>
+Servers\Aws\usp-prod (dbadmin)\StartupScriptFilename<|||>1<|||>
+Servers\Aws\usp-prod (dbadmin)\TreeBackground<|||>3<|||>536870911
+Servers\Aws\usp-prod (dbadmin)\SSHtunnelActive<|||>3<|||>0
+Servers\Aws\usp-prod (dbadmin)\SshExecutable<|||>1<|||>
+Servers\Aws\usp-prod (dbadmin)\SSHtunnelHost<|||>1<|||>
+Servers\Aws\usp-prod (dbadmin)\SSHtunnelHostPort<|||>3<|||>22
+Servers\Aws\usp-prod (dbadmin)\SSHtunnelUser<|||>1<|||>
+Servers\Aws\usp-prod (dbadmin)\SSHtunnelPassword<|||>1<|||>2
+Servers\Aws\usp-prod (dbadmin)\SSHtunnelTimeout<|||>3<|||>4
+Servers\Aws\usp-prod (dbadmin)\SSHtunnelPrivateKey<|||>1<|||>
+Servers\Aws\usp-prod (dbadmin)\SSHtunnelPort<|||>3<|||>3307
+Servers\Aws\usp-prod (dbadmin)\SSL_Active<|||>3<|||>0
+Servers\Aws\usp-prod (dbadmin)\SSL_Key<|||>1<|||>
+Servers\Aws\usp-prod (dbadmin)\SSL_Cert<|||>1<|||>
+Servers\Aws\usp-prod (dbadmin)\SSL_CA<|||>1<|||>
+Servers\Aws\usp-prod (dbadmin)\SSL_Cipher<|||>1<|||>
+Servers\Aws\usp-prod (dbadmin)\IgnoreDatabasePattern<|||>1<|||>
+Servers\Aws\usp-prod (dbadmin)\LogFileDdl<|||>3<|||>0
+Servers\Aws\usp-prod (dbadmin)\LogFileDml<|||>3<|||>0
+Servers\Aws\usp-prod (dbadmin)\LogFilePath<|||>1<|||>C:\Users\##WINDOWS-USER-NAME##\AppData\Roaming\HeidiSQL\Logs\%session\%db\%y%m%d.sql
+Servers\Aws\usp-prod (dbadmin)\RefusedCount<|||>3<|||>2
+Servers\Aws\usp-prod (dbadmin)\ServerVersionFull<|||>1<|||>5.7.12 - MySQL Community Server (GPL)
+Servers\Aws\usp-prod (dbadmin)\ConnectCount<|||>3<|||>2
+Servers\Aws\usp-prod (dbadmin)\ServerVersion<|||>3<|||>50712
+Servers\Aws\usp-prod (dbadmin)\LastConnect<|||>1<|||>2023-08-21 14:16:28

@@ -1,0 +1,182 @@
+{
+    "misc":  {
+        "heidi":  "C:\\Program Files\\HeidiSQL\\heidisql.exe"
+    },
+    "rds":  [
+        {
+            "name":  "S8 Development",
+            "profile":  "AWSAdministratorAccess-565918689713",
+            "command":  "./connection/RDS/connector.ps1",
+            "username":  "",
+            "heidi_session":  "Aws\\s8-dev",
+            "cluster":  "dev-backend-database-20210123054057300500000005.cr3subrs1ssf.eu-central-1.rds.amazonaws.com",
+            "reader1":  "",
+            "reader2":  "",
+            "writer":  ""
+        },
+        {
+            "name":  "S8 Pre Production",
+            "profile":  "AWSAdministratorAccess-880356245698",
+            "command":  "./connection/RDS/connector.ps1",
+            "username":  "",
+            "heidi_session":  "Aws\\s8-pre-prod",
+            "cluster":  "pre-prod-backend-database-20210201070559962100000004.cryil3lukuje.eu-central-1.rds.amazonaws.com",
+            "reader1":  "",
+            "reader2":  "",
+            "writer":  ""
+        },
+        {
+            "name":  "S8 Production",
+            "profile":  "AWSAdministratorAccess-110070395503",
+            "command":  "./connection/RDS/connector.ps1",
+            "username":  "",
+            "heidi_session":  "Aws\\s8-prod",
+            "cluster":  "s8-prod-db-cluster.cluster-c3libbgnrfox.eu-central-1.rds.amazonaws.com",
+            "reader1":  "db-medium-4.c3libbgnrfox.eu-central-1.rds.amazonaws.com",
+            "reader2":  "",
+            "writer":  "db-medium-1.c3libbgnrfox.eu-central-1.rds.amazonaws.com"
+        },
+        {
+            "name":  "USP Pre Production",
+            "profile":  "AWSAdministratorAccess-526291140131",
+            "command":  "./connection/RDS/connector.ps1",
+            "username":  "",
+            "heidi_session":  "Aws\\usp-pre-prod",
+            "cluster":  "preprod-usp-cluster.cluster-ckov8jspzemh.eu-central-1.rds.amazonaws.com",
+            "reader1":  "preprod-usp-cluster.cluster-ro-ckov8jspzemh.eu-central-1.rds.amazonaws.com",
+            "reader2":  "",
+            "writer":  "preprod-usp.ckov8jspzemh.eu-central-1.rds.amazonaws.com"
+        },
+        {
+            "name":  "USP Production",
+            "profile":  "AWSAdministratorAccess-458829929633",
+            "command":  "./connection/RDS/connector.ps1",
+            "username":  "",
+            "heidi_session":  "Aws\\usp-prod",
+            "cluster":  "db-aurora-20210503024430579200000004.cluster-ctngzts7gg1q.eu-central-1.rds.amazonaws.com",
+            "reader1":  "pennyslynx.ctngzts7gg1q.eu-central-1.rds.amazonaws.com",
+            "reader2":  "",
+            "writer":  "bonkersinyonkers.ctngzts7gg1q.eu-central-1.rds.amazonaws.com"
+        },
+        {
+            "name":  "VF Production",
+            "profile":  "AWSAdministratorAccess-211125528326",
+            "command":  "./connection/RDS/connector.ps1",
+            "username":  "",
+            "heidi_session":  "AWS\\vf-prod",
+            "cluster":  "vf-main.cluster-cl46uo2meewh.eu-central-1.rds.amazonaws.com",
+            "reader1":  "",
+            "reader2":  "",
+            "writer":  "vf-main-instance-1.cl46uo2meewh.eu-central-1.rds.amazonaws.com"
+        }
+    ],
+    "rdp":  [
+        {
+            "name":  "S8 Main",
+            "profile":  "AWSAdministratorAccess-820736449056",
+            "command":  "./connection/RDP/connector.ps1"
+        },
+        {
+            "name":  "S8 Development",
+            "profile":  "AWSAdministratorAccess-565918689713",
+            "command":  "./connection/RDP/connector.ps1"
+        },
+        {
+            "name":  "S8 Pre Production",
+            "profile":  "AWSAdministratorAccess-880356245698",
+            "command":  "./connection/RDP/connector.ps1"
+        },
+        {
+            "name":  "S8 Production",
+            "profile":  "AWSAdministratorAccess-110070395503",
+            "command":  "./connection/RDP/connector.ps1"
+        },
+        {
+            "name":  "VF Production",
+            "profile":  "AWSAdministratorAccess-211125528326",
+            "command":  "./connection/RDP/connector.ps1"
+        },
+        {
+            "name":  "USP Pre Production",
+            "profile":  "AWSAdministratorAccess-526291140131",
+            "command":  "./connection/RDP/connector.ps1"
+        },
+        {
+            "name":  "USP Production",
+            "profile":  "AWSAdministratorAccess-458829929633",
+            "command":  "./connection/RDP/connector.ps1"
+        }
+    ],
+    "ssh":  [
+        {
+            "name":  "S8 Development",
+            "profile":  "AWSAdministratorAccess-565918689713",
+            "command":  "./connection/SSH/connector.ps1"
+        },
+        {
+            "name":  "S8 Pre Production",
+            "profile":  "AWSAdministratorAccess-880356245698",
+            "command":  "./connection/SSH/connector.ps1"
+        },
+        {
+            "name":  "S8 Production",
+            "profile":  "AWSAdministratorAccess-110070395503",
+            "command":  "./connection/SSH/connector.ps1"
+        },
+        {
+            "name":  "USP Pre Production",
+            "profile":  "AWSAdministratorAccess-526291140131",
+            "command":  "./connection/SSH/connector.ps1"
+        },
+        {
+            "name":  "USP Production",
+            "profile":  "AWSAdministratorAccess-458829929633",
+            "command":  "./connection/SSH/connector.ps1"
+        },
+        {
+            "name":  "VF Production",
+            "profile":  "AWSAdministratorAccess-211125528326",
+            "command":  "./connection/SSH/connector.ps1"
+        },
+        {
+            "name":  "S8 Main",
+            "profile":  "AWSAdministratorAccess-820736449056",
+            "command":  "./connection/SSH/connector.ps1"
+        }
+    ],
+    "devOps":  {
+        "services":  [
+            "codebuild",
+            "pipeline"
+        ],
+        "accounts":  [
+            {
+                "name":  "S8 Development",
+                "profile":  "AWSAdministratorAccess-565918689713"
+            },
+            {
+                "name":  "S8 Pre Production",
+                "profile":  "AWSAdministratorAccess-880356245698"
+            },
+            {
+                "name":  "S8 Production",
+                "profile":  "AWSAdministratorAccess-110070395503"
+            },
+            {
+                "name":  "USP Pre Production",
+                "profile":  "AWSAdministratorAccess-526291140131"
+            },
+            {
+                "name":  "USP Production",
+                "profile":  "AWSAdministratorAccess-458829929633"
+            },
+            {
+                "name":  "S8 Main",
+                "profile":  "AWSAdministratorAccess-820736449056"
+            }
+        ]
+    },
+    "lg":  {
+        "api_key":  "tZU24Q49ut7W5FKsOcxEC2BM4nLV0sLe2JzeUQee"
+    }
+}

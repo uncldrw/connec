@@ -1,0 +1,86 @@
+<Window x:Class="connector.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:connector"
+        mc:Ignorable="d"
+        Title="spectrum8 connector v1.2"
+        Height="650" 
+        Width="800" 
+        FontSize="14"
+        ResizeMode="CanMinimize">
+		<Window.Resources>
+			<Style x:Key="ButtonStyle" TargetType="{x:Type Button}">
+				<Style.Triggers>
+					<Trigger Property="IsPressed" Value="True">
+						<Setter Property="Effect">
+							<Setter.Value>
+								<DropShadowEffect BlurRadius="4" ShadowDepth="2"/>
+							</Setter.Value>
+						</Setter>
+					</Trigger>
+				</Style.Triggers>
+			</Style>
+		</Window.Resources>
+    <Grid>
+        <Grid.Resources>
+            <Style TargetType="{x:Type Button}">
+                <Setter Property="Margin" Value="10,5,10,0"/>
+                <Setter Property="Width" Value="60"/>
+            </Style>
+        </Grid.Resources>
+        <Expander x:Name="controlExpander" Header="Controls" Margin="10,10,400,320" IsExpanded="False">
+            <Grid RenderTransformOrigin="0.5,0.5">
+                <Label Content="SSH via:" VerticalAlignment="Top" Width="135" Margin="0,10,0,0" FontFamily="Arial" HorizontalAlignment="Left"/>
+                <RadioButton x:name="radioButtonWsl" GroupName="ssh" Content="Wsl" HorizontalAlignment="Left" Margin="5,45,0,0" VerticalAlignment="Top" Width="150" IsChecked="True"/>
+                <RadioButton x:name="radioButtonPowershell" GroupName="ssh" Content="Powershell" HorizontalAlignment="Left" Margin="115,45,0,0" VerticalAlignment="Top"/>
+                
+                <Label Content="Editor config:" VerticalAlignment="Top" Width="135" Margin="0,80,0,0" FontFamily="Arial" HorizontalAlignment="Left"/>
+                <RadioButton x:name="radioButtonCode" GroupName="editor" Content="Code" HorizontalAlignment="Left" Margin="5,115,0,0" VerticalAlignment="Top" Width="150" IsChecked="True"/>
+                <RadioButton x:name="radioButtonNotepad" GroupName="editor" Content="Notepad++" HorizontalAlignment="Left" Margin="115,115,0,0" VerticalAlignment="Top"/>
+            </Grid>
+        </Expander>
+        <TabControl x:Name="tabControl" Margin="0,50,0,5">
+            <TabItem x:Name="rdsTab" Header="RDS">
+            <ScrollViewer>
+                <Grid x:name="rdsGrid" Background="#FFE5E5E5" HorizontalAlignment="Center" VerticalAlignment="Top" Width="750" Margin="0,15,0,0" Height="auto"/>
+            </ScrollViewer>
+            </TabItem>
+            <TabItem x:Name="rdpTab" Header="RDP">
+                <ScrollViewer>
+                    <Grid>
+                        <Grid x:name="rdpDropdownAccountsGrid" Background="#FFE5E5E5" HorizontalAlignment="Center" VerticalAlignment="Top" Width="750" Margin="0,15,0,0" Height="auto"/>
+                        <Grid x:name="rdpTableGrid" Background="#FFE5E5E5" HorizontalAlignment="Center" VerticalAlignment="Top" Width="750" Margin="0,150,0,0" Height="auto"/>
+                    </Grid>
+                </ScrollViewer>
+            </TabItem>
+            <TabItem x:Name="sshTab" Header="SSH">
+                <ScrollViewer>
+                    <Grid>
+                        <Grid x:name="sshDropdownAccountsGrid" Background="#FFE5E5E5" HorizontalAlignment="Center" VerticalAlignment="Top" Width="750" Margin="0,15,0,0" Height="auto"/>
+                        <Grid x:name="sshTableGrid" Background="#FFE5E5E5" HorizontalAlignment="Center" VerticalAlignment="Top" Width="750" Margin="0,150,0,0" Height="auto"/>
+                    </Grid>
+                </ScrollViewer>
+            </TabItem>
+            <TabItem x:Name="devOpsTab" Header="DevOps">
+                <ScrollViewer>
+                    <Grid>
+                        <Grid x:name="devOpsDropdownAccountsGrid" Background="#FFE5E5E5" HorizontalAlignment="Center" VerticalAlignment="Top" Width="750" Margin="0,15,0,0" Height="auto"/>
+                        <Grid x:name="devOpsTableGrid" Background="#FFE5E5E5" HorizontalAlignment="Center" VerticalAlignment="Top" Width="750" Margin="0,200,0,0" Height="auto"/>
+                    </Grid>
+                </ScrollViewer>
+            </TabItem>
+            <TabItem x:Name="lgTab" Header="LG">
+                <ScrollViewer>
+                    <Grid x:name="topGrid">
+                        <Grid x:name="dateGrid" Background="red" HorizontalAlignment="Center" VerticalAlignment="Top" Width="750" Margin="0,15,0,0" Height="auto"/>
+                        <Grid x:name="rolloutGrid" Background="blue" HorizontalAlignment="Center" VerticalAlignment="Top" Width="750" Margin="0,130,0,0" Height="auto"/>
+                        <Grid x:name="apiGrid" Background="green" HorizontalAlignment="Center" VerticalAlignment="Top" Width="750" Margin="0,245,0,0" Height="auto"/>
+                        <Grid x:name="spGrid" Background="brown" HorizontalAlignment="Center" VerticalAlignment="Top" Width="750" Margin="0,360,0,0" Height="auto"/>
+                    </Grid>
+                </ScrollViewer>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Window>
